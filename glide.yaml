@@ -1,0 +1,4 @@
+package: pie6.rtp.lab.emc.com/workbench/logging-util
+import:
+- package: github.com/sirupsen/logrus
+  version: ^1.0.3
